@@ -48,8 +48,8 @@ if (condicion) {
 ---
 
 ## 🔹 OPERADORES
-Relacionales: == != > < >= <=  
-Lógicos: && || !
+Relacionales: ==, !=,  >,  <,  >=,  <=  
+Lógicos: &&,  ||,  !
 
 ---
 
